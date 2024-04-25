@@ -3,5 +3,5 @@ fun main(args: Array<String>) {
 }
 
 fun escribir() {
-	print("Función escribir");
+	print("Función escribir. Y mucho más");
 }
